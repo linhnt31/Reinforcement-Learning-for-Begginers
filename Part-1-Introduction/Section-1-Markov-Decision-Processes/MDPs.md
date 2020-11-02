@@ -32,9 +32,8 @@ ___
 
 ![](https://i.imgur.com/nIUdsIm.jpg)
 
-![Formulation1]()
+![Formulation1](https://github.com/linhnt31/Reinforcement-Learning-for-Begginers/blob/main/Part-1-Introduction/Section-1-Markov-Decision-Processes/Images/1.jpg)
 
-![Formulation2]()
 
 ## References
 
